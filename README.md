@@ -24,10 +24,3 @@ jupyter labextension link .
 # start JupyterLab
 jupyter lab
 ```
-
-For the classic Jupyter Notebook:
-
-```bash
-jupyter nbextension enable --py --sys-prefix ipyutils
-jupyter notebook
-```
