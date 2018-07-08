@@ -4,6 +4,10 @@ This widget was generated using the [Widget TypeScript Cookiecutter](https://git
 
 This is for demo purposes and is not meant to be installed from [pypi](https://pypi.org) and [npm](https://npmjs.org).
 
+## Run on Binder
+
+TODO
+
 ## Run locally
 
 ```bash
