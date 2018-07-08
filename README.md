@@ -4,10 +4,6 @@ This widget was generated using the [Widget TypeScript Cookiecutter](https://git
 
 This is for demo purposes and is not meant to be installed from [pypi](https://pypi.org) and [npm](https://npmjs.org).
 
-## Run on Binder
-
-Try out right away on [Binder](https://mybinder.org/v2/gh/jtpio/pixijs-jupyter/master)!
-
 ## Run locally
 
 ```bash
