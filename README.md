@@ -1,6 +1,8 @@
 # pixijs-jupyter
 
-This widget was generated using the [Widget TypeScript Cookiecutter](https://github.com/jupyter-widgets/widget-ts-cookiecutter).
+Materials and examples originally presented at [PyData Berlin 2018](https://pydata.org/berlin2018/schedule/presentation/32/).
+
+This repository was generated using the [Widget TypeScript Cookiecutter](https://github.com/jupyter-widgets/widget-ts-cookiecutter).
 
 This is for demo purposes and is not meant to be installed from [pypi](https://pypi.org) and [npm](https://npmjs.org).
 
