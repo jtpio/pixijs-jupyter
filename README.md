@@ -14,6 +14,10 @@ The presentation from PyData Berlin 2018 is directly available on Binder, which 
 
 [![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/jtpio/pixijs-jupyter/pydata-berlin?urlpath=lab/tree/examples/presentation.ipynb)
 
+Click on `presentation.ipynb` to view the notebook, or browse the files to look at the source code for the widgets.
+
+![binder](./examples/img/binder.png)
+
 ## Run locally
 
 The other option is to install all the dependencies and run it locally:
