@@ -6,11 +6,17 @@ This repository was generated using the [Widget TypeScript Cookiecutter](https:/
 
 This is for demo purposes and is not meant to be installed from [pypi](https://pypi.org) and [npm](https://npmjs.org).
 
+![demo](./examples/img/pixijs-jupyterlab.gif)
+
 ## Run on Binder
 
-TODO
+The presentation from PyData Berlin 2018 is directly available on Binder, which means you can try it right away in your web browser!
+
+[![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/jtpio/pixijs-jupyter/pydata-berlin?urlpath=lab/tree/examples/presentation.ipynb)
 
 ## Run locally
+
+The other option is to install all the dependencies and run it locally:
 
 ```bash
 # Install the Python package
