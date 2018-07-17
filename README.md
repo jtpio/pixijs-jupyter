@@ -10,7 +10,7 @@ This is for demo purposes and is not meant to be installed from [pypi](https://p
 
 The last example demoed during the presentation is an interactive game state viewer, but has not been included in this repository since the original viewer has not been made public (yet!).
 
-There is however a quick video to give an idea of what it looks like to manipulate such widget in JupyterLab:
+There is however a [quick video](https://www.youtube.com/watch?v=RGYFc-cz7nU) to give an idea of what it looks like to manipulate such widget in JupyterLab:
 
 [![Island Viewer Demo](https://img.youtube.com/vi/RGYFc-cz7nU/0.jpg)](https://www.youtube.com/watch?v=RGYFc-cz7nU)
 
