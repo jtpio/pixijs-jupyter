@@ -14,6 +14,10 @@ There is however a [quick video](https://www.youtube.com/watch?v=RGYFc-cz7nU) to
 
 [![Island Viewer Demo](https://img.youtube.com/vi/RGYFc-cz7nU/0.jpg)](https://www.youtube.com/watch?v=RGYFc-cz7nU)
 
+The presentation from PyData Berlin 2018 is also available on Youtube:
+
+[![PyData Berlin 2018 Presentation](https://img.youtube.com/vi/TcuJILbTPZg/0.jpg)](https://www.youtube.com/watch?v=TcuJILbTPZg)
+
 ## Run on Binder
 
 The presentation from PyData Berlin 2018 is directly available on Binder, which means you can try it right away in your web browser!
