@@ -22,7 +22,7 @@ The presentation from PyData Berlin 2018 is also available on Youtube:
 
 The presentation from PyData Berlin 2018 is directly available on Binder, which means you can try it right away in your web browser!
 
-[![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/jtpio/pixijs-jupyter/pydata-berlin?urlpath=lab/tree/examples/presentation.ipynb)
+[![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/jtpio/pixijs-jupyter/v1.0?urlpath=lab/tree/examples/presentation.ipynb)
 
 Click on `presentation.ipynb` to view the notebook, or browse the files to look at the source code for the widgets.
 
