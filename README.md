@@ -22,12 +22,20 @@ Click on `presentation.ipynb` to view the notebook, or browse the files to look 
 
 The other option is to install all the dependencies and run it locally:
 
+Using conda, create a new environment:
+
+```bash
+conda env create -f ./binder/environment.yml
+```
+
+Then:
+
 ```bash
 # Install the Python package
 pip install -e .
 
 # JupyterLab Manager is required for widgets
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.36.2
 
 # Link the extension
 # This will fetch all the dependencies from pypi and npm, and might take a while to finish.
