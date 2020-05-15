@@ -1,10 +1,14 @@
-# pixijs-jupyter
+# Practical examples of interactive visualizations in JupyterLab with Pixi.js and Jupyter Widgets
+
+## PyData Berlin 2018
+
+**This repository is for demo purposes and is not meant to be installed from [pypi](https://pypi.org) and [npm](https://npmjs.org).**
+
+**It is not longer maintained. However, the example code can still be reused in other Jupyter Widgets!**
 
 Materials and examples originally presented at [PyData Berlin 2018](https://pydata.org/berlin2018/schedule/presentation/32/).
 
 This repository was bootstrapped using the [Widget TypeScript Cookiecutter](https://github.com/jupyter-widgets/widget-ts-cookiecutter).
-
-This is for demo purposes and is not meant to be installed from [pypi](https://pypi.org) and [npm](https://npmjs.org).
 
 ![demo](./examples/img/pixijs-jupyterlab.gif)
 
